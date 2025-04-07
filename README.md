@@ -1,4 +1,3 @@
-# pytest-for-grass-gis
 # GSoC 2025 Proposal: Add pytest support for GRASS GIS Python testing framework
 
 ## 📌 Project Description
