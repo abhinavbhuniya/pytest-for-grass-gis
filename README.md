@@ -1,9 +1,9 @@
 # GSoC 2025 Proposal: Add pytest support for GRASS GIS Python testing framework
 
-## 📌 Project Description
+## Project Description
 This project aims to modernize the testing framework of GRASS GIS by integrating support for `pytest`. GRASS currently uses a custom `unittest`-based module (`grass.gunittest`) that is verbose and outdated. Migrating to `pytest` will make writing tests easier, more readable, and more in line with modern Python practices.
 
-## 📅 Timeline Summary
+## Timeline Summary
 ### Community Bonding (April–May)
 - Understand `grass.gunittest` and `pytest`
 - Set up development environment
@@ -27,7 +27,7 @@ This project aims to modernize the testing framework of GRASS GIS by integrating
 - Final refinements and test coverage report
 - Submit for final evaluation
 
-## 🎯 Plan to Contribute
+## Plan to Contribute
 - Contribute before coding period by:
   - Fixing failing tests
   - Writing basic pytest cases for smaller modules
@@ -35,9 +35,9 @@ This project aims to modernize the testing framework of GRASS GIS by integrating
 - Reach out to mentors regularly
 - Stay active on GitHub and Matrix
 
-## 📌 Links
-- 🔗 [GRASS GIS GitHub repo](https://github.com/OSGeo/grass)
-- 💡 [GSoC 2025 Idea Page](https://trac.osgeo.org/grass/wiki/GSoC/2025#Addpytestsupport)
+## Links
+- [GRASS GIS GitHub repo](https://github.com/OSGeo/grass)
+- [GSoC 2025 Idea Page](https://trac.osgeo.org/grass/wiki/GSoC/2025#Addpytestsupport)
 
 ---
 
